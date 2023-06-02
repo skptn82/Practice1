@@ -2,6 +2,6 @@
 #include"misc.h"
 void main()
 {
- printf("Hello world\n");
+ printf("Hello world\n")
  myFunc();
 }
